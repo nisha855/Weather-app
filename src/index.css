@@ -96,6 +96,7 @@ html{
   font-weight: 800;
   font-size: 5rem;
   text-transform: capitalize;
+  color: #eee;
 }
 
 .fa-street-view{
@@ -126,6 +127,7 @@ html{
   margin-top: 2.5rem;
   text-align: center;
   font-size: 3rem;
+  color: #eee;
 }
 
 .tempmin_max{
@@ -133,7 +135,7 @@ html{
   margin-top:0.3rem;
   font-weight: 300;
   font-size: 1.2rem;
-color:#57606f;
+color:#eee;
 }
 #weathercon{
   height: 55%;
@@ -204,6 +206,7 @@ body > span{
   text-align: center;
   font-size: 2rem;
   margin: 2rem auto;
+  color: #eee;
 }
 
 
